@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000FF",
+        "font" : "Courier",
+        "color" : "#00F900FF"
+      },
+      "shortcut" : {
+        "size" : 24,
+        "colorSelected" : "#00F900FF",
+        "font" : "Courier",
+        "color" : "#00F900FF"
+      },
+      "backgroundSelected" : "#00F900FF",
+      "text" : {
+        "size" : 19,
+        "colorSelected" : "#000000FF",
+        "font" : "Courier",
+        "color" : "#00F900FF"
+      },
+      "iconPaddingHorizontal" : 6,
+      "roundness" : 0,
+      "paddingVertical" : 9,
+      "iconSize" : 33
+    },
+    "search" : {
+      "backgroundSelected" : "#00F900FF",
+      "paddingHorizontal" : 0,
+      "spacing" : 6,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "Courier",
+        "color" : "#00F900FF"
+      },
+      "background" : "#0000001A",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#000000FF",
+      "paddingHorizontal" : 9,
+      "width" : 799,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : -64,
+      "paddingVertical" : 0
+    },
+    "credit" : "Jacob Smith",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#000000FF",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#00F900FF",
+      "thickness" : 3
+    },
+    "name" : "Terminal v1"
+  }
+}
